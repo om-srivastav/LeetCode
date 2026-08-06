@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/om-srivastav/LeetCode/tree/master/0001-two-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/om-srivastav/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1748-sum-of-unique-elements](https://github.com/om-srivastav/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Sliding Window
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/om-srivastav/LeetCode/tree/master/0001-two-sum) |
 | [1748-sum-of-unique-elements](https://github.com/om-srivastav/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
