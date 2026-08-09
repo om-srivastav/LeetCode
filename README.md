@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/om-srivastav/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/om-srivastav/LeetCode/tree/master/0189-rotate-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/om-srivastav/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -70,4 +71,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/om-srivastav/LeetCode/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
