@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/om-srivastav/LeetCode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/om-srivastav/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/om-srivastav/LeetCode/tree/master/0189-rotate-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/om-srivastav/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/om-srivastav/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/om-srivastav/LeetCode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/om-srivastav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/om-srivastav/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
