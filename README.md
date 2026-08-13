@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/om-srivastav/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/om-srivastav/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/om-srivastav/LeetCode/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/om-srivastav/LeetCode/tree/master/0326-power-of-three) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/om-srivastav/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -125,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/om-srivastav/LeetCode/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/om-srivastav/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
