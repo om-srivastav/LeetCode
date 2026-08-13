@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/om-srivastav/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/om-srivastav/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/om-srivastav/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/om-srivastav/LeetCode/tree/master/0189-rotate-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/om-srivastav/LeetCode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/om-srivastav/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/om-srivastav/LeetCode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/om-srivastav/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/om-srivastav/LeetCode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/om-srivastav/LeetCode/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/om-srivastav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/om-srivastav/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/om-srivastav/LeetCode/tree/master/0048-rotate-image) |
 ## Algorithm X
 |  |
 | ------- |
