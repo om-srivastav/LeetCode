@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/om-srivastav/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/om-srivastav/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/om-srivastav/LeetCode/tree/master/0342-power-of-four) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/om-srivastav/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/om-srivastav/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/om-srivastav/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/om-srivastav/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1748-sum-of-unique-elements](https://github.com/om-srivastav/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/om-srivastav/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/om-srivastav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
