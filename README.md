@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/om-srivastav/LeetCode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/om-srivastav/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/om-srivastav/LeetCode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/om-srivastav/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/om-srivastav/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/om-srivastav/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/om-srivastav/LeetCode/tree/master/0054-spiral-matrix) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/om-srivastav/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/om-srivastav/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/om-srivastav/LeetCode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/om-srivastav/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/om-srivastav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/om-srivastav/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
