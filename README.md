@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/om-srivastav/LeetCode/tree/master/0342-power-of-four) |
 | [0976-largest-perimeter-triangle](https://github.com/om-srivastav/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/om-srivastav/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1927-sum-game](https://github.com/om-srivastav/LeetCode/tree/master/1927-sum-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/om-srivastav/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/om-srivastav/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -118,12 +119,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/om-srivastav/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/om-srivastav/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/om-srivastav/LeetCode/tree/master/0242-valid-anagram) |
+| [1927-sum-game](https://github.com/om-srivastav/LeetCode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/om-srivastav/LeetCode/tree/master/0011-container-with-most-water) |
 | [0976-largest-perimeter-triangle](https://github.com/om-srivastav/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1927-sum-game](https://github.com/om-srivastav/LeetCode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
@@ -185,4 +188,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/om-srivastav/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/om-srivastav/LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
