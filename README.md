@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/om-srivastav/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/om-srivastav/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1748-sum-of-unique-elements](https://github.com/om-srivastav/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/om-srivastav/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/om-srivastav/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/om-srivastav/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/om-srivastav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0242-valid-anagram](https://github.com/om-srivastav/LeetCode/tree/master/0242-valid-anagram) |
 | [0976-largest-perimeter-triangle](https://github.com/om-srivastav/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/om-srivastav/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/om-srivastav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/om-srivastav/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/om-srivastav/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/om-srivastav/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Polygons
 |  |
 | ------- |
