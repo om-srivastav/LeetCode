@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/om-srivastav/LeetCode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/om-srivastav/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/om-srivastav/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/om-srivastav/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/om-srivastav/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/om-srivastav/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [3903-smallest-stable-index-i](https://github.com/om-srivastav/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/om-srivastav/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Newton's Method
 |  |
 | ------- |
