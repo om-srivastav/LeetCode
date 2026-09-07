@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/om-srivastav/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/om-srivastav/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/om-srivastav/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/om-srivastav/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/om-srivastav/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/om-srivastav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/om-srivastav/LeetCode/tree/master/3731-find-missing-elements) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/om-srivastav/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/om-srivastav/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/om-srivastav/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2733-neither-minimum-nor-maximum](https://github.com/om-srivastav/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/om-srivastav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/om-srivastav/LeetCode/tree/master/3731-find-missing-elements) |
 ## Stack
