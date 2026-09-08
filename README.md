@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/om-srivastav/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/om-srivastav/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/om-srivastav/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/om-srivastav/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0976-largest-perimeter-triangle](https://github.com/om-srivastav/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/om-srivastav/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1927-sum-game](https://github.com/om-srivastav/LeetCode/tree/master/1927-sum-game) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/om-srivastav/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/om-srivastav/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-srivastav/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/om-srivastav/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/om-srivastav/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
