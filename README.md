@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/om-srivastav/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/om-srivastav/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/om-srivastav/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/om-srivastav/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/om-srivastav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/om-srivastav/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/om-srivastav/LeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/om-srivastav/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/om-srivastav/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/om-srivastav/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/om-srivastav/LeetCode/tree/master/3904-smallest-stable-index-ii) |
