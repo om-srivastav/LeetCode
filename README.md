@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/om-srivastav/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/om-srivastav/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1927-sum-game](https://github.com/om-srivastav/LeetCode/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/om-srivastav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/om-srivastav/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/om-srivastav/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/om-srivastav/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/om-srivastav/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/om-srivastav/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/om-srivastav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/om-srivastav/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/om-srivastav/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/om-srivastav/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/om-srivastav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/om-srivastav/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -323,4 +326,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/om-srivastav/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/om-srivastav/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/om-srivastav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/om-srivastav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
