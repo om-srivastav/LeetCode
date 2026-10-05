@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/om-srivastav/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/om-srivastav/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/om-srivastav/LeetCode/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/om-srivastav/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/om-srivastav/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/om-srivastav/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/om-srivastav/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -282,12 +283,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/om-srivastav/LeetCode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/om-srivastav/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/om-srivastav/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/om-srivastav/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/om-srivastav/LeetCode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/om-srivastav/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
