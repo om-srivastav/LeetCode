@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/om-srivastav/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0160-intersection-of-two-linked-lists](https://github.com/om-srivastav/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0707-design-linked-list](https://github.com/om-srivastav/LeetCode/tree/master/0707-design-linked-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -364,4 +365,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/om-srivastav/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/om-srivastav/LeetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
