@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0922-sort-array-by-parity-ii](https://github.com/om-srivastav/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/om-srivastav/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/om-srivastav/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/om-srivastav/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/om-srivastav/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0160-intersection-of-two-linked-lists](https://github.com/om-srivastav/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0707-design-linked-list](https://github.com/om-srivastav/LeetCode/tree/master/0707-design-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/om-srivastav/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Quicksort
 |  |
 | ------- |
