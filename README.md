@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/om-srivastav/LeetCode/tree/master/1927-sum-game) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/om-srivastav/LeetCode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/om-srivastav/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
