@@ -164,12 +164,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/om-srivastav/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/om-srivastav/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/om-srivastav/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-srivastav/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/om-srivastav/LeetCode/tree/master/0011-container-with-most-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/om-srivastav/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/om-srivastav/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/om-srivastav/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/om-srivastav/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/om-srivastav/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/om-srivastav/LeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/om-srivastav/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/om-srivastav/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/om-srivastav/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/om-srivastav/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/om-srivastav/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/om-srivastav/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/om-srivastav/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/om-srivastav/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0707-design-linked-list](https://github.com/om-srivastav/LeetCode/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/om-srivastav/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -380,4 +384,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/om-srivastav/LeetCode/tree/master/0707-design-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/om-srivastav/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
