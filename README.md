@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/om-srivastav/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/om-srivastav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/om-srivastav/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/om-srivastav/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/om-srivastav/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/om-srivastav/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/om-srivastav/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/om-srivastav/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/om-srivastav/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/om-srivastav/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/om-srivastav/LeetCode/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -323,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/om-srivastav/LeetCode/tree/master/0078-subsets) |
 | [0342-power-of-four](https://github.com/om-srivastav/LeetCode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
