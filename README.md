@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/om-srivastav/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/om-srivastav/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/om-srivastav/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/om-srivastav/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/om-srivastav/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/om-srivastav/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/om-srivastav/LeetCode/tree/master/0414-third-maximum-number) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/om-srivastav/LeetCode/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/om-srivastav/LeetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/om-srivastav/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/om-srivastav/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/om-srivastav/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/om-srivastav/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/om-srivastav/LeetCode/tree/master/0414-third-maximum-number) |
@@ -419,4 +421,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/om-srivastav/LeetCode/tree/master/0101-symmetric-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/om-srivastav/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
