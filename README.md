@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/om-srivastav/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/om-srivastav/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/om-srivastav/LeetCode/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/om-srivastav/LeetCode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/om-srivastav/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/om-srivastav/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/om-srivastav/LeetCode/tree/master/0709-to-lower-case) |
