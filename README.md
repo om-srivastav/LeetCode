@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/om-srivastav/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/om-srivastav/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/om-srivastav/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/om-srivastav/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/om-srivastav/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3693-climbing-stairs-ii](https://github.com/om-srivastav/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/om-srivastav/LeetCode/tree/master/3731-find-missing-elements) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/om-srivastav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/om-srivastav/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2747-count-zero-request-servers](https://github.com/om-srivastav/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/om-srivastav/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Database
 |  |
 | ------- |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/om-srivastav/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/om-srivastav/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/om-srivastav/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/om-srivastav/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/om-srivastav/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/om-srivastav/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Newton's Method
