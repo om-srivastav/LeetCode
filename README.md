@@ -265,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-check-if-the-sentence-is-pangram](https://github.com/om-srivastav/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/om-srivastav/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/om-srivastav/LeetCode/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/om-srivastav/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2844-minimum-operations-to-make-a-special-number](https://github.com/om-srivastav/LeetCode/tree/master/2844-minimum-operations-to-make-a-special-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/om-srivastav/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/om-srivastav/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2022-convert-1d-array-into-2d-array](https://github.com/om-srivastav/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/om-srivastav/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/om-srivastav/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/om-srivastav/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/om-srivastav/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Number Theory
 |  |
