@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/om-srivastav/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/om-srivastav/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/om-srivastav/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/om-srivastav/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/om-srivastav/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/om-srivastav/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/om-srivastav/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/om-srivastav/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/om-srivastav/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/om-srivastav/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/om-srivastav/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/om-srivastav/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/om-srivastav/LeetCode/tree/master/0976-largest-perimeter-triangle) |
