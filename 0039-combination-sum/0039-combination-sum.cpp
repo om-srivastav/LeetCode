@@ -1,35 +1,24 @@
 class Solution {
 public:
-set<vector<int>>s;
-void getallcombinations(vector<int>& arr,int idx,int target,vector<vector<int>> &ans,vector<int>combin){
-    int n=arr.size();
-    if(idx==n || target<0){
-        return;
-    }
-    if(target==0){
-        if(s.find(combin)==s.end()){
-            ans.push_back(combin);
-            s.insert(combin);
+    void findcom(int idx, int target, vector<int>&arr,vector<vector<int>>&ans,vector<int>&ds){
+        if(idx==arr.size()){
+            if(target==0){
+                ans.push_back(ds);
+            }
+            return;
         }
-        // ans.push_back({combin});
-        return;
+        //pick up the element
+        if(arr[idx]<=target){
+            ds.push_back(arr[idx]);
+            findcom(idx,target-arr[idx],arr,ans,ds);
+            ds.pop_back();
+        }
+        findcom(idx+1,target,arr,ans,ds);
     }
-    combin.push_back(arr[idx]);
-    //single
-    getallcombinations(arr,idx+1,target-arr[idx],ans,combin);
-    //multiple
-    getallcombinations(arr,idx,target-arr[idx],ans,combin);
-    combin.pop_back();
-    //exclusion
-    getallcombinations(arr,idx+1,target,ans,combin);
-
-}
-    vector<vector<int>> combinationSum(vector<int>& arr, int target) {
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>>ans;
-        vector<int>combin;
-        int n=arr.size();
-        getallcombinations(arr,0,target,ans,combin);
-
+        vector<int>ds;
+        findcom(0,target,candidates,ans,ds);
         return ans;
     }
 };
